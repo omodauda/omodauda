@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**omodauda/omodauda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Welcome to my GitHub page
 
 - 🔭 I’m currently working on myself
 - 🌱 I’m currently learning React Native
@@ -12,5 +9,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything...
 - 📫 How to reach me: twitter - @iam_babslaw
 - 😄 Pronouns: Him / He
-- ⚡ Fun fact: I enjoy good rap songs 
--->
+- ⚡ Fun fact: I enjoy good rap songs
